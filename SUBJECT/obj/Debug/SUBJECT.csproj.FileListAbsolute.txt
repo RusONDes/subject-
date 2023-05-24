@@ -1,0 +1,11 @@
+E:\чето\SUBJECT\SUBJECT\bin\Debug\SUBJECT.exe.config
+E:\чето\SUBJECT\SUBJECT\bin\Debug\SUBJECT.exe
+E:\чето\SUBJECT\SUBJECT\bin\Debug\SUBJECT.pdb
+E:\чето\SUBJECT\SUBJECT\obj\Debug\SUBJECT.csproj.AssemblyReference.cache
+E:\чето\SUBJECT\SUBJECT\obj\Debug\SUBJECT.csproj.SuggestedBindingRedirects.cache
+E:\чето\SUBJECT\SUBJECT\obj\Debug\SUBJECT.Form1.resources
+E:\чето\SUBJECT\SUBJECT\obj\Debug\SUBJECT.Properties.Resources.resources
+E:\чето\SUBJECT\SUBJECT\obj\Debug\SUBJECT.csproj.GenerateResource.cache
+E:\чето\SUBJECT\SUBJECT\obj\Debug\SUBJECT.csproj.CoreCompileInputs.cache
+E:\чето\SUBJECT\SUBJECT\obj\Debug\SUBJECT.exe
+E:\чето\SUBJECT\SUBJECT\obj\Debug\SUBJECT.pdb
